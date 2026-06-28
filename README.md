@@ -1,6 +1,6 @@
 # 🇮🇳 India’s Critical Minerals EXIM Analysis & Forecasting
 
-> **A Data Analytics Hackathon Project**  
+> **A Data Analytics Hackathon Project (ISM Dhanbad)**  
 > **Team: CODEVATIVE**
 
 An interactive, data-driven web platform that analyzes **India’s Import–Export (EXIM) trends** for **critical minerals** — **Copper, Lithium, and Graphite** — and provides **insights and forecasts** to support strategic decision-making for policy and industry.
