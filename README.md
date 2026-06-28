@@ -6,7 +6,7 @@
 An interactive, data-driven web platform that analyzes **India’s Import–Export (EXIM) trends** for **critical minerals** — **Copper, Lithium, and Graphite** — and provides **insights and forecasts** to support strategic decision-making for policy and industry.
 
 🔗 **Live Project Website**  
-👉 https://arshiltech.github.io/Analysis/
+👉 https://arshiltech.github.io/India_Critical_Minerals_EXIM_Analysis_And_Forecasting
 
 ---
 
